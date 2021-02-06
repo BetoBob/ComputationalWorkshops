@@ -8,25 +8,3 @@ We use examples from physics experiments and models so that you can apply your p
 To get started right away or to try out the activities, click below to run our workshop notebooks in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/ComputationalWorkshops/blob/master/1%20-%20Introduction.ipynb)
-
-## Table of Contents
-
-### Intro to Python
-
-*include colab link to each notebook here; this is a little bit easier than the colab link*
-
-1. [Introduction](https://colab.research.google.com/github/BetoBob/ComputationalWorkshops/blob/master/1%20-%20Introduction.ipynb)
-2. 
-3. 
-
-### Unix Workshops
-
-1. 
-2. 
-3. 
-
-### Projects
-
-1. 
-2. 
-3. 
